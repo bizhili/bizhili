@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bizhili
 - 👀 I’m interested in writing,drawing,playing go,computer
 - 🌱 I’m currently learning cv,finance,ml
-- 💞️ I’m looking to collaborate on goohle
+- 💞️ I’m looking to collaborate on None
 - 📫 How to reach me :None
 
 <!---
